@@ -1,2 +1,2 @@
-# Computación'\n'Paralela
+# Computación Paralela
 Código de computación paralela.
