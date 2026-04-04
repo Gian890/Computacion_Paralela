@@ -42,7 +42,7 @@ void actualizar_onda(
 /*  Precauciones a considerar:
     1) Actualizar onda depende del paso anterior de tiempo.
     2) Se define la actualización de la onda en base al número de Courant r,
-    en ningún momento se pide como entrada el tiempo total de simulación 
+    en ninguna instancia se pide como entrada el tiempo total de simulación 
     ni la velocidad de la onda, estos vienen implícitos en la expresión 
     r = (c*dt)/dx.      */
 int main(){
