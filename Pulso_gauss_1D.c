@@ -9,7 +9,7 @@ void inicializar_onda(
     int Nx, 
     double L, 
     double r,
-    double amp,
+    double amp, //amplitud del pulso
     double sigma,
     double x0){
     
@@ -52,8 +52,7 @@ int main(){
     int Nt = 2000;
     double r = 1.0;
     double L = 1.0;
-    double T = 2.0;
-    double amp = 1.0;
+    double amp = 1.0; 
     double sigma = 0.003;
     double x0 = 0.5;
     double *u = malloc(Nx*Nt*sizeof(double));
