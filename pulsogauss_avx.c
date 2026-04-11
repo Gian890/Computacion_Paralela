@@ -72,6 +72,7 @@ void actualizar_onda(
     en ninguna instancia se pide como entrada el tiempo total de simulación 
     ni la velocidad de la onda, estos vienen implícitos en la expresión 
     r = (c*dt)/dx.      */
+
 int main(){
     
     //Acá definimos los parametros de nuestra simulación
