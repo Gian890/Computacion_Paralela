@@ -1,2 +1,2 @@
-# Computación Paralela Jorge Grez
-Código de computación paralela.
+# Código Computación Paralela Jorge Grez
+Acá se sube código de la asignatura computación paralela.
