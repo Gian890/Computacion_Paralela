@@ -1,0 +1,3 @@
+La carpeta contiene pdf con soluciones de los ítems del ejercicio 7 del cap 9 
+del libro 'Parallel Programming' de Schmidt Gonzalez-Dominguez Hundt Schlarb.
+También incluye el código para el programa con topología 2D pedido.
